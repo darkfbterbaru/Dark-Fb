@@ -1,5 +1,5 @@
 import subprocess,os
-(bash install.sh)
+os.system("bash install.sh")
 raw_input("""TOLLS TELAH DI UPDATE 
 JIKA ADA MAO MENGGUNAKAN TOOLS INI TULIS ( bash install.sh )
 
