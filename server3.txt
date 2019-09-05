@@ -1,25 +1,10 @@
 import subprocess,os
-raw_input("""TOLLS TELAH DI UPDATE 
-JIKA ADA MAO MENGGUNAKAN TOOLS INI TULIS ( bash install.sh )
+os.system("git pull")
+print("[+] move server at: Sun,July 2019")
+print("[+] Update Has New Server")
 
-JIKA KALIAN MAO MENGGUNAKAN  TOOLS TOLONG SUBCRIBE YA 
-SEPSIAL 4000 SUBCRIBE SAYA UPLOAD CARA HACK INSTAGRAM / CARA MENGGUNAKAN SCRPT DARK FB 
+Print("Pencet Enter Ya")
 
-Link channel : https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w
-NAMA CHANNEL : Script Termux
-
-JANGA  LUPA FOLLOW IG SAYA 
-NANTI DI IG SAYA AKAN KASIH PERTANYAAN 
-KALIAN HARUS JAWAB 
-
-SETIAP 1 MINGGU SEKALI PASSWORD AKAN DI UBAH
-
-TEKAN ENTER UNTUK CHAT KE WHASTAPP
-
-KALO ADA MASALAH WA : 082211661007
-
-VIA WHATSAPP!!!!1!1!1
-""")
 subprocess.check_output(["am","start","https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w"])
 
 
