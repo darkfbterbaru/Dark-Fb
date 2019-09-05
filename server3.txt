@@ -1,5 +1,4 @@
 import subprocess,os
-os.system("git pull")
 print("[+] move server at: Sun,July 2019")
 print("[+] Update Has New Server")
 
